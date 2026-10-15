@@ -13,11 +13,11 @@ With compatible credentials configured and recognised by the reader, the NFC chi
 - [Original PCB project (.epro2)](hardware/nfc_led_campus_card.epro2) — open in EasyEDA Pro / LCEDA Pro.
 - [Project images](docs/images/)
 
-## Assembled card
+## PCB layout
 
-| Front | Back |
+| Top | Bottom |
 | --- | --- |
-| ![Assembled campus card, front](docs/images/nfc_led_campus_card_pcb_photo_top.jpg) | ![Assembled campus card, back](docs/images/nfc_led_campus_card_pcb_photo_bottom.jpg) |
+| ![Campus card, top PCB layout](docs/images/nfc_led_campus_card_pcb_layout_top.png) | ![Campus card, bottom PCB layout](docs/images/nfc_led_campus_card_pcb_layout_bottom.png) |
 
 ## 3D previews
 
@@ -25,10 +25,10 @@ With compatible credentials configured and recognised by the reader, the NFC chi
 | --- | --- |
 | ![Campus card, top 3D preview](docs/images/nfc_led_campus_card_pcb_3d_top.png) | ![Campus card, bottom 3D preview](docs/images/nfc_led_campus_card_pcb_3d_bottom.png) |
 
-## PCB layout
+## Assembled card
 
-| Top | Bottom |
+| Front | Back |
 | --- | --- |
-| ![Campus card, top PCB layout](docs/images/nfc_led_campus_card_pcb_layout_top.png) | ![Campus card, bottom PCB layout](docs/images/nfc_led_campus_card_pcb_layout_bottom.png) |
+| ![Assembled campus card, front](docs/images/nfc_led_campus_card_pcb_photo_top.jpg) | ![Assembled campus card, back](docs/images/nfc_led_campus_card_pcb_photo_bottom.jpg) |
 
 [Back to the portfolio](../)
