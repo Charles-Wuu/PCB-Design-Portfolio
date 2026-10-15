@@ -1,0 +1,14 @@
+# Operating system metadata
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+
+# Office lock files and temporary editor files
+~$*
+*.tmp
+*.swp
+*.swo
+
+# Local camera originals
+nfc_led_campus_card/docs/images/originals/
