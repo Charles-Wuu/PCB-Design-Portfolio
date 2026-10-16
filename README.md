@@ -2,7 +2,7 @@
 
 This repository brings together the projects I worked on while learning and practising PCB layout over the summer, from layout exercises to a board I fabricated, soldered, and tested myself.
 
-I have earned an entry-level PCB Layout Designer certificate issued by the [Chinese Institute of Electronics (CIE)](https://www.cie.org.cn/about_107/).
+I have earned a junior-level PCB Layout Designer certificate issued by the [Chinese Institute of Electronics (CIE)](https://www.cie.org.cn/about_107/).
 
 ## Projects
 
