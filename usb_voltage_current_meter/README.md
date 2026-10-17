@@ -33,4 +33,4 @@ The PCB layout has passed **all design rule checks (DRC) with no reported violat
 | --- | --- |
 | ![USB meter, top 3D preview](docs/images/usb_voltage_current_meter_pcb_3d_top.png) | ![USB meter, bottom 3D preview](docs/images/usb_voltage_current_meter_pcb_3d_bottom.png) |
 
-[Back to the portfolio](../)
+[Back to the portfolio](https://github.com/Charles-Wuu/PCB-Design-Portfolio)

@@ -31,4 +31,4 @@ With compatible credentials configured and recognised by the reader, the NFC chi
 | --- | --- |
 | ![Assembled campus card, front](docs/images/nfc_led_campus_card_pcb_photo_top.jpg) | ![Assembled campus card, back](docs/images/nfc_led_campus_card_pcb_photo_bottom.jpg) |
 
-[Back to the portfolio](../)
+[Back to the portfolio](https://github.com/Charles-Wuu/PCB-Design-Portfolio)

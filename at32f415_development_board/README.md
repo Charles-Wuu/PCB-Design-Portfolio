@@ -27,4 +27,4 @@ I successfully passed the exam and earned a junior-level PCB Layout Designer cer
 | --- | --- |
 | ![AT32F415 board, top 3D preview](docs/images/at32f415_development_board_pcb_3d_top.png) | ![AT32F415 board, bottom 3D preview](docs/images/at32f415_development_board_pcb_3d_bottom.png) |
 
-[Back to the portfolio](../)
+[Back to the portfolio](https://github.com/Charles-Wuu/PCB-Design-Portfolio)
