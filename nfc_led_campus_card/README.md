@@ -1,6 +1,6 @@
 # NFC LED Campus Card
 
-A personal PCB campus card project inspired by Imperial College London's Department of Electrical and Electronic Engineering (EEE). I designed the board, had it fabricated, and soldered and tested the assembled card myself.
+A personal PCB campus card project inspired by Imperial College London's [Department of Electrical and Electronic Engineering (EEE)](https://www.imperial.ac.uk/electrical-engineering/). I designed the board, had it fabricated, and soldered and tested the assembled card myself.
 
 ## How it works
 
@@ -10,7 +10,7 @@ With compatible credentials configured and recognised by the reader, the NFC chi
 
 ## Project files
 
-- [Original PCB project (.epro2)](hardware/nfc_led_campus_card.epro2) — open in EasyEDA Pro / LCEDA Pro.
+- [Original design project (.epro2)](hardware/nfc_led_campus_card.epro2) — open in [EasyEDA Pro](https://pro.easyeda.com/editor) / [LCEDA Pro](https://pro.lceda.cn/editor).
 - [Project images](docs/images/)
 
 ## PCB layout
