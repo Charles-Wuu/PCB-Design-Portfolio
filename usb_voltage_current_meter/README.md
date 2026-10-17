@@ -1,8 +1,14 @@
 # USB Voltage and Current Meter
 
-I worked on this simple USB voltage and current meter as a practice project while learning PCB layout.
+I designed this simple USB voltage and current meter as a practice project while learning PCB layout.
 
-The layout has passed **design rule checks (DRC) with no reported violations**. The board has not yet been fabricated or tested in hardware, so its electrical operation and measurement performance still require validation.
+The design is based on the [STM32F103C8T6](https://www.st.com/en/microcontrollers-microprocessors/stm32f103c8.html) microcontroller, with a USB Type-C connector for power input and a USB Type-A connector for the load.
+
+A **10 mΩ shunt resistor** and an [INA199](https://www.ti.com/product/INA199) current-sense amplifier provide the current measurement signal, while a resistor divider scales the supply voltage for measurement. The STM32 samples these signals through its ADC, calculates the voltage and current, and sends the readings to an external display module over I2C.
+
+The board also includes a **3.3 V regulator**, a mode-selection button, an **8 MHz crystal**, and an **SWD interface** for programming and debugging.
+
+The PCB layout has passed **all design rule checks (DRC) with no reported violations**. The board has not yet been fabricated or tested in hardware, so its electrical operation and measurement performance still require validation.
 
 ## Project files
 
